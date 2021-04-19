@@ -1,6 +1,7 @@
 # industry_os
 
-A new Flutter project.
+A new Flutter project to take work report as an input from the employees and display the insights and dashboard to the user.
+User have to Sign-in to get started. For, Signing-in/Register I've used Firebase Authentication.
 
 ## Getting Started
 
