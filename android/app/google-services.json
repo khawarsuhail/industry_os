@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100164607753",
+    "project_id": "industryos-a3dac",
+    "storage_bucket": "industryos-a3dac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100164607753:android:42b7cfcb2f70035810fdd8",
+        "android_client_info": {
+          "package_name": "com.example.industry_os"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100164607753-h4rd963ic95e2pgaut8a0sqihaprcul8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDif8API9SGF5F3zSKH_Ief2PmrGT6uJ1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100164607753-h4rd963ic95e2pgaut8a0sqihaprcul8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
